@@ -1,0 +1,9 @@
+.sinal{
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 100% ;
+
+}
